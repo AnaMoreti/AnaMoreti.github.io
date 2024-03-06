@@ -109,7 +109,7 @@ header nav.menu-desktop ul li {
 
 .btn-abrir-menu {
     position: fixed;
-    top: 20px;
+    top: 30px;
     /* Ajuste a posição superior conforme necessário */
     right: 20px;
     /* Ajuste a posição esquerda conforme necessário */
